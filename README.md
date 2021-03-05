@@ -1,4 +1,4 @@
-# Sistemas-Baseados-em-Microprocessadores
+# Sistemas Baseados em Microprocessadores
 ## Controlo de uma persiana
 Recorrendo a dois botões de pressão, o sistema deverá controlar a abertura e fecho de uma persiana de
 comando elétrico do seguinte modo: um toque breve no botão de abertura deverá abrir completamente a
